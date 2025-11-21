@@ -2,8 +2,8 @@
 
 -- Standardize Date Format
 
-select *
-from menu_items;
+SELECT *
+FROM menu_items;
 
 select *
 from order_details;
