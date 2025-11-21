@@ -5,8 +5,8 @@
 SELECT *
 FROM menu_items;
 
-select *
-from order_details;
+SELECT *
+FROM order_details;
 
 -- combine the menu_items and order_details tables into a single table--
 
